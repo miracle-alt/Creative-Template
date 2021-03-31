@@ -1120,7 +1120,7 @@ hr {
     display: block;
     margin: 0;
     padding: 8px 20px;
-    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.5);
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
   }
   .nav-toggle {
     display: block;
